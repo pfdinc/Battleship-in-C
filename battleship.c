@@ -1,5 +1,7 @@
+/*
+@ Pushkin Debaba
+*/
 #include "battleship.h"
-
 
 
 void game_choice(int number)
