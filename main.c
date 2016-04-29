@@ -1,3 +1,6 @@
+/*
+@ Pushkin Debaba
+*/
 #include "battleship.h"
 
 int main (void)
