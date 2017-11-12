@@ -270,9 +270,4 @@ Player1 Wins!
 
 Statistics outputted to logfile successfully!
 
-IV. Submitting Assignments:
- 
-Using the OSBLE+ MS VS plugin, please submit your solution. Please visit https://github.com/WSU-HELPLAB/OSBLE/wiki/Submitting-an-Assignment for more information about submitting using OSBLE+.
-Your project must contain one header file (a .h file), two C source files (which must be .c files), and project workspace.
-Your project must build properly. The most points an assignment can receive if it does not build properly is 65 out of 100.
- 
+
